@@ -1,0 +1,12 @@
+Jobs in Data Science Analysis Questions: (1 file - jobs_in_data_science in Drive E:)
+
+Q-1 Find Salary trends with respect to work year?
+Q-2 Find salary distribution across various specialized Roles namley Data Scientist, Data Engineer and Data Analyst
+Q-3 Find unique Job Title for which salary range is between 80,000 and 2,00,000?
+Q-4 Find Employee Residence whose Salary is in 'USD' and Experience level as 'Senior'?
+Q-5 Find Total Salary in USD for work setting as 'In-person'?
+Q-6 Find the most common Job category with respect to Job Title?
+Q-7 Find average salary based on Employment type with respect to work year and Job Title?
+Q-8 Find ratio of medium to large for company size
+Q-9 Find Job Title with respect to work year where 'salary number' is equal to 'salary in USD number'
+Q-10 Classify unique experience level for all records
